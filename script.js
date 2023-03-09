@@ -3,9 +3,9 @@ const textarea = document.querySelector('.inputField');
 const btn = document.querySelector('.btn');
 const savebtn = document.querySelector('.savebtn');
 const clearbtn = document.querySelector('.clearbtn');
-document.addEventListener('DOMContentLoaded', ready);
 const deleteBtn = document.querySelector('.deleteBtn');
 
+document.addEventListener('DOMContentLoaded', ready);
 function ready() {
    let i = 1;
    while (1 == 1) {
